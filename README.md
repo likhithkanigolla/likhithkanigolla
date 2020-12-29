@@ -4,13 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Likhithlpu&label=Profile%20views&color=0e75b6&style=flat" alt="Likhithlpu" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Likhithlpu" alt="Likhithlpu" /></a> </p>
-- 🔭 I’m currently working on some cool Projects
-- 🌱 I’m currently learning new Technologies
-- 👯 I’m looking for any internships
-- 💬 Ask me about Web Development and Python
-- 📫 How to reach me: likhithkanigolla@gmail.com
-- 😄 Pronouns: Mr
-
+<ul >
+ <li>🔭 I’m currently working on some cool Projects</li>
+ <li>🌱 I’m currently learning new Technologies</li>
+ <li>👯 I’m looking for any internships</li>
+ <li>💬 Ask me about Web Development and Python</li>
+ <li>📫 How to reach me: likhithkanigolla@gmail.com</li>
+ <li>😄 Pronouns: Mr</li>
+</ul>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/balalikhithkanigolla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/balalikhithkanigolla/" height="30" width="40" /></a>
