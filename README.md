@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Likhithlpu.Likhithlpu" alt="Likhithlpu" /> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Likhithlpu&title=Commit,MultiLanguage,PullRequest,Repositories,Stars,Followers&theme=algolia)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Likhithlpu&title=Commit,MultiLanguage,PullRequest,Repositories,Stars,Followers&theme=algolia&align)
 
 <ul >
  <li>🔭 I’m currently working on some cool Projects</li>
