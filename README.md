@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Likhithlpu.Likhithlpu" alt="Likhithlpu" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Likhithlpu" alt="Likhithlpu" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Likhithlpu&title=Commit,MultiLanguage,PullRequest,Repositories,Stars,Followers&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 <ul >
  <li>🔭 I’m currently working on some cool Projects</li>
  <li>🌱 I’m currently learning new Technologies</li>
