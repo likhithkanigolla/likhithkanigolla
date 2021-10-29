@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Likhithlpu.Likhithlpu" alt="Likhithlpu" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Likhithlpu&title=Commit,MultiLanguage,PullRequest,Repositories,Stars,Followers&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Likhithlpu&title=Commit,MultiLanguage,PullRequest,Repositories,Stars,Followers&theme=algolia)]
 
 <ul >
  <li>🔭 I’m currently working on some cool Projects</li>
@@ -15,9 +15,9 @@
 </ul>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/balalikhithkanigolla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/balalikhithkanigolla/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/balalikhith.kanigolla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/balalikhith_kanigolla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="balalikhith_kanigolla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/balalikhithkanigolla/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/balalikhithkanigolla/" height="40" width="40" /></a>
+<a href="https://www.facebook.com/balalikhith.kanigolla/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/balalikhith_kanigolla/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="balalikhith_kanigolla" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,14 +31,11 @@
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+ <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
    
 # GitHub Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=LIKHITHLPU&show_icons=true&theme=radical&include_all_commits=true">
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKHITHLPU)](https://github.com/anuraghazra/github-readme-stats)
+![Likhith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likhithlpu&show_icons=true&theme=radical)                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhithlpu&layout=compact)
 
 
 [Buy me a Coffee](https://rzp.io/l/coffeeforlikhith)
