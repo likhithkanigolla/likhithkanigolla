@@ -9,7 +9,8 @@
  <li>🔭 I’m currently working on some cool Projects</li>
  <li>🌱 I’m currently learning new Technologies</li>
  <li>👯 I’m looking for any internships</li>
- <li>💬 Ask me about Web Development and Python</li>
+ <li>💬 Ask me about Web Development, Python, Cyber Security</li>
+ <li>🧑‍💼Currently Leading OWASP LPU Chapter</li>
  <li>📫 How to reach me: likhithkanigolla@gmail.com</li>
  <li>😄 Pronouns: Mr</li>
 </ul>
