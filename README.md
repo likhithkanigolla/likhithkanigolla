@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Likhith Kanigolla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Likhithlpu.Likhithlpu" alt="likhithlpu" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Likhithlpu/Likhithlpu](https://github.com/Likhithlpu/Likhithlpu)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Likhithlpu/Likhithlpu)
 
-- 📝 I regularly write articles on [https://medium.com/@balalikhith](https://medium.com/@balalikhith)
+- 📝 I regularly write articles on [Medium](https://medium.com/@balalikhith)
 
 - 💬 Ask me about **security, web-dev , python**
 
