@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **likhithkanigolla@gmail.com**
 
-- 📄 Know about my experiences [Here is my Resume](https://drive.google.com/file/d/1iCjuTqnsVMD-mlN255ms-RCwm-jYm3xu/view?usp=sharing)
+- 📄 Know about my experiences [Here is my Resume](https://drive.google.com/file/d/1DSDUsYNpGEItBo5DILLs_3xGCqjwXv-F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
