@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.password-container {
+    max-width: 40px;
+    margin: 50px auto;
+}
+
+#strength-meter {
+    height: 10px;
+    margin-top: 10px;
+}
+
+/* Add your own styling for a modern, stylish theme */
