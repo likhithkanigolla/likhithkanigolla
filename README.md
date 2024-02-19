@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Likhithlpu/Likhithlpu](https://github.com/Likhithlpu/Likhithlpu)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Likhithlpu/Likhithlpu)
 
-- 📝 I regularly write articles on [https://medium.com/@balalikhith](https://medium.com/@balalikhith)
+- 📝 I regularly write articles on [Medium](https://medium.com/@balalikhith)
 
 - 💬 Ask me about **DevOps, Cloud and Web**
 
 - 📫 How to reach me **likhithkanigolla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JUupP-tM2ErHghEJqCEvfNpn9nRH6i_c/view](https://drive.google.com/file/d/1JUupP-tM2ErHghEJqCEvfNpn9nRH6i_c/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1JUupP-tM2ErHghEJqCEvfNpn9nRH6i_c/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
