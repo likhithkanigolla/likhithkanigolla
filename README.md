@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **likhithkanigolla@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1JUupP-tM2ErHghEJqCEvfNpn9nRH6i_c/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z7J1i378BtOdPES2KG-mG6kJTzRG7sH0/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
