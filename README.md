@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/likhithkanigolla/likhithkanigolla)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@balalikhith)
+- 📝 I write articles on [Medium](https://medium.com/@balalikhith)
 
 - 💬 Ask me about **DevOps, Cloud and Web**
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1z7J1i378BtOdPES2KG-mG6kJTzRG7sH0/view?usp=sharing)
 
-### Blogs posts
+### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [OWASP-LPU CTF: What’s Hidin](https://balalikhith.medium.com/owasp-lpu-ctf-whats-hidin-ff401d6a3380?source=rss-2660571e5f30------2)
 - [OWASP-LPU CTF February 2022](https://balalikhith.medium.com/owasp-lpu-ctf-february-2022-a4fdd8a022ee?source=rss-2660571e5f30------2)
