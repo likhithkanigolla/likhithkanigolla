@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://git-readme-streak.vercel.app/?user=likhithkanigolla">
     <img align="center" src="https://git-readme-streak.vercel.app/?user=likhithkanigolla&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" />
   </a>
 </p>
