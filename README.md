@@ -27,10 +27,7 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [OWASP-LPU CTF: What’s Hidin](https://balalikhith.medium.com/owasp-lpu-ctf-whats-hidin-ff401d6a3380?source=rss-2660571e5f30------2)
-- [OWASP-LPU CTF February 2022](https://balalikhith.medium.com/owasp-lpu-ctf-february-2022-a4fdd8a022ee?source=rss-2660571e5f30------2)
-- [OWASP LPU CTF: Where is the Passkey](https://balalikhith.medium.com/owasp-lpu-ctf-where-is-the-passkey-20e0ed3f868a?source=rss-2660571e5f30------2)
-- [Gravithon 2021- Capture the flag](https://balalikhith.medium.com/gravithon-2021-capture-the-flag-e50735cad1bb?source=rss-2660571e5f30------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
