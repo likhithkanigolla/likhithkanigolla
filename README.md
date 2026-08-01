@@ -102,16 +102,21 @@
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithkanigolla&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=likhithkanigolla&show_icons=true&theme=nightowl&hide_border=true" width="100%" />
+</td>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkanigolla&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-</p>
+<td align="center" width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=likhithkanigolla&layout=compact&theme=nightowl&hide_border=true" width="100%" />
+</td>
+</tr>
 
-<p align="center">
-  <a href="https://git-readme-streak.vercel.app/?user=likhithkanigolla">
-    <img align="center" src="https://git-readme-streak.vercel.app/?user=likhithkanigolla&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" />
-  </a>
-</p>
+<tr>
+<td colspan="2" align="center">
+<img src="https://git-readme-streak.vercel.app/?user=likhithkanigolla&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" width="80%" />
+</td>
+</tr>
+</table>
+
